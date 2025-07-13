@@ -71,6 +71,11 @@ FlappyBird/
 
 Inspired by the original Flappy Bird game by Dong Nguyen. Built for educational and entertainment purposes using open-source tools.
 
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## 🙋‍♂️ Author
 
 Kardam Singhal  
